@@ -19,3 +19,26 @@ Mainly my work experience is only in teaching English. I have been working as an
 
 This means I have no experience in coding but I am willig to learn and improve.
 *******************
+
+## Education
+- Kyzylorda State University by Korkyt-Ata / 2008-2012 / Bachelor's degree /
+Foreign language: two foreign languages (English and French)
+
+- Nazarbayev University / 2019-2021 / Master's degree / Multilingual Education
+*******************
+
+## Languages
+- English (advanced, IELTS 7.5) 
+- Arabic (elementary)
+- Russian (advanced)
+- Kazakh (native speaker)
+*******************
+
+## Soft skills
+- Graphic design (Adobe Photoshop, 
+Illustrator, InDesign)
+- Photography (Adobe Lightroom)
+- Video editing (Adobe Premiere pro, 
+After Effects, Davinci Resolve)
+- Web-designing - HTML, CSS, 
+JS (basic knowledge)
