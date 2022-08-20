@@ -1,4 +1,5 @@
 # CV
+![me](/img/me.jpg)
 ## Adam Kuandykov
 *******************
 ### Contact Details
